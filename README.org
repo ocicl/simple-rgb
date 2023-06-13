@@ -1,0 +1,10 @@
+* simple-rgb
+
+a Common Lisp library for manipulating colors in RGB format
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/wmannis/simple-rgb   |
+| commit  | ba9b068  |
+| systems | simple-rgb |
+|---------+-------------------------------------------|
+
