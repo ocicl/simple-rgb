@@ -7,4 +7,4 @@ a Common Lisp library for manipulating colors in RGB format
 | commit  | 6995518                                   |
 | systems | simple-rgb                                |
 |---------+-------------------------------------------|
- 
+  
